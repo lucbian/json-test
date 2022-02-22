@@ -1,0 +1,49 @@
+{
+    "budget": [
+        {
+            "id": 1,
+            "ramo": "Prueba 1",
+            "vencimiento": "Prueba 1",
+            "tipo": "Prueba 1",
+            "asegurado": "Prueba 1",
+            "fecha": "2022-02-22T14:32:01.000Z",
+            "estado": "Prueba 1"
+        },
+        {
+            "id": 2,
+            "ramo": "Prueba 2",
+            "vencimiento": "Prueba 2",
+            "tipo": "Prueba 2",
+            "asegurado": "Prueba 2",
+            "fecha": "2022-02-22T14:32:01.000Z",
+            "estado": "Prueba 2"
+        },
+        {
+            "id": 3,
+            "ramo": "Prueba 3",
+            "vencimiento": "Prueba 3",
+            "tipo": "Prueba 3",
+            "asegurado": "Prueba 3",
+            "fecha": "2022-02-22T14:32:01.000Z",
+            "estado": "Prueba 3"
+        },
+        {
+            "id": 4,
+            "ramo": "Prueba 4",
+            "vencimiento": "Prueba 4",
+            "tipo": "Prueba 4",
+            "asegurado": "Prueba 4",
+            "fecha": "2022-02-22T14:32:01.000Z",
+            "estado": "Prueba 4"
+        },
+        {
+            "id": 5,
+            "ramo": "Prueba 5",
+            "vencimiento": "Prueba 5",
+            "tipo": "Prueba 5",
+            "asegurado": "Prueba 5",
+            "fecha": "2022-02-22T14:32:01.000Z",
+            "estado": "Prueba 5"
+        }
+    ]
+}
